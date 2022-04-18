@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnmv4302/admaccal/!svn/ver/55/trunk/DesignCreator/src/DesignAlgorithm
+END
+GenerationDiagnostic.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/GenerationDiagnostic.java
+END
+DOEOutputRuns.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/DOEOutputRuns.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/Matrix.java
+END
+DOEFactorArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/DOEFactorArray.java
+END
+RunCorrelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/RunCorrelation.java
+END
+SimpleStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/SimpleStats.java
+END
+Design.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnmv4302/admaccal/!svn/ver/104/trunk/DesignCreator/src/DesignAlgorithm/Design.java
+END
+CombinationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/CombinationGenerator.java
+END
+RandomColumnCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/RandomColumnCreator.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/Timer.java
+END
+MTRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/MTRandom.java
+END
+Correlation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnmv4302/admaccal/!svn/ver/52/trunk/DesignCreator/src/DesignAlgorithm/Correlation.java
+END
+WriteOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnmv4302/admaccal/!svn/ver/125/trunk/DesignCreator/src/DesignAlgorithm/WriteOut.java
+END
+CrossoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/CrossoverTest.java
+END
+Crossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/Crossover.java
+END
+GeneticAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnmv4302/admaccal/!svn/ver/125/trunk/DesignCreator/src/DesignAlgorithm/GeneticAlgorithm.java
+END
+MainMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnmv4302/admaccal/!svn/ver/126/trunk/DesignCreator/src/DesignAlgorithm/MainMethod.java
+END
+DesignColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnmv4302/admaccal/!svn/ver/125/trunk/DesignCreator/src/DesignAlgorithm/DesignColumn.java
+END
+InverseCorrComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnmv4302/admaccal/!svn/ver/42/trunk/DesignCreator/src/DesignAlgorithm/InverseCorrComparator.java
+END
+Population.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnmv4302/admaccal/!svn/ver/47/trunk/DesignCreator/src/DesignAlgorithm/Population.java
+END
+ML2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnmv4302/admaccal/!svn/ver/105/trunk/DesignCreator/src/DesignAlgorithm/ML2.java
+END
